@@ -1,0 +1,10 @@
+10:18:47,182 DEBUG SQL:103 - insert into message (text) values (?)
+10:18:47,195 TRACE BasicBinder:65 - binding parameter [1] as [VARCHAR] - [Message 1]
+10:18:47,205 DEBUG SQL:103 - insert into message (text) values (?)
+10:18:47,206 TRACE BasicBinder:65 - binding parameter [1] as [VARCHAR] - [Message 2]
+10:18:47,207 DEBUG SQL:103 - insert into message (text) values (?)
+10:18:47,208 TRACE BasicBinder:65 - binding parameter [1] as [VARCHAR] - [Message 3]
+10:18:47,210 DEBUG SQL:103 - insert into message (text) values (?)
+10:18:47,211 TRACE BasicBinder:65 - binding parameter [1] as [VARCHAR] - [Message 4]
+10:18:47,212 DEBUG SQL:103 - insert into message (text) values (?)
+10:18:47,213 TRACE BasicBinder:65 - binding parameter [1] as [VARCHAR] - [Message 5]
